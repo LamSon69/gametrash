@@ -1,0 +1,1236 @@
+fileFormatVersion: 2
+guid: a5ef4b2ffd2b98349b1932c20e88379f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: skillskin_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1020
+        width: 323
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c087f29b7440c844aa5fed9fb3e33de
+      internalID: -63271094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillskin_1
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1017
+        width: 100
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a792f0d371c3be4cb55d720410cc6dc
+      internalID: 2142960556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillskin_2
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1010
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea6d16cc0dd82b45ab96ef278a99629
+      internalID: 1804833918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillskin_3
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1011
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b990cfe76a33684ebe0eea4837517ca
+      internalID: 1981486835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillskin_4
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1043
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a47b5675a4905418961aeba8341483
+      internalID: 1832908421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillskin_5
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 920
+        width: 74
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed19f64ff536cdc44a846678fcaff7b7
+      internalID: -1429796702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillskin_6
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 919
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae06ebbe99453944847c648a8c46e92
+      internalID: 294387713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillskin_7
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 925
+        width: 74
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9384295d676dd408c6bb5997d8b579
+      internalID: -1588610630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillskin_8
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 930
+        width: 79
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d93b5ec613d0eb48af0ee72412c22ee
+      internalID: 1855259779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillskin_9
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 930
+        width: 83
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342790b89712dcd438248b67f7ca7171
+      internalID: 1188398398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillskin_10
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 979
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2412bcd6387f44eba36e8f8b3e1222
+      internalID: 93328337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillskin_11
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 934
+        width: 83
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ecc70164b09e740941130f4e62b05b
+      internalID: 1831492646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillskin_12
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 870
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f28437c5384c44a8bab953738d8851
+      internalID: 782658127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillskin_13
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 870
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2c4ef2191b2794ba9243525758339d
+      internalID: -356595319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillskin_14
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 870
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36067a8f38efbd43b4370f6094290e9
+      internalID: -728351548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillskin_15
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 869
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea52bbe56e7ef7744af3ecf729b298ff
+      internalID: -1861557418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillskin_16
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 712
+        width: 254
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4465af3c470a243a92c2a7d1718f91
+      internalID: -242623614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillskin_17
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 820
+        width: 122
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43269b57b923cd488ba7a185ba15cef
+      internalID: 71106405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillskin_18
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 818
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ba59335bfb91041920fb21e52cd4c2
+      internalID: -1181171057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillskin_19
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 817
+        width: 221
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad134f4c8eb12140b7bbb68c100a153
+      internalID: -870224017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillskin_20
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 693
+        width: 11
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c8ea75dd88584418d59c32ba63fb83
+      internalID: 875364406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillskin_21
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 706
+        width: 19
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d284780fcf546f14b896e525401aef4d
+      internalID: 49419894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillskin_22
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 716
+        width: 42
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c77ad4050af2746aee7fde1fd30a09
+      internalID: -1727938427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillskin_23
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 717
+        width: 45
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55eaf56dc16d26e4bbb21a1196ae8e95
+      internalID: 1700185155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillskin_24
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 722
+        width: 51
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1b2de24184cdd43b05c71d5f306284
+      internalID: -1400943959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillskin_25
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 722
+        width: 40
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1ea029034af264fb53998ba1884e8b
+      internalID: 1904875899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillskin_26
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 722
+        width: 35
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d4f46f66a1f5d42800bfe0f47b35d3
+      internalID: -1982671898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillskin_27
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 718
+        width: 33
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe3de6d8efee1543bb3a0e541d3d93d
+      internalID: -421232914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillskin_28
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 649
+        width: 119
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be691a022e09a74bb43bd9a8fbe0a35
+      internalID: 1520636794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillskin_29
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 650
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4bcc127b44b91e46b70e8bd593f6c8c
+      internalID: -911884810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillskin_30
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 467
+        width: 418
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74bb75ce300aa8b4cbef0c3c0c1fb6be
+      internalID: 1108479348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillskin_31
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 563
+        width: 127
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7d7d1b099107c4ab15a953ee5a7d0c
+      internalID: 1336578810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillskin_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 455
+        width: 54
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b57e354abfc164aa047c3a67c306e8
+      internalID: -1700778118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillskin_33
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 453
+        width: 55
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db3b4ebac60d3346995dcdac0305257
+      internalID: 1689460125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillskin_34
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 465
+        width: 57
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f603bfb5a532c146b26a3b38725d666
+      internalID: 20170438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillskin_35
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 247
+        width: 685
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf1c16feb2f79a40878187fd5808ed2
+      internalID: -1843384862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillskin_36
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 403
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f88c4b86c6bec24a8b2353ba41f2148
+      internalID: 1607496993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillskin_37
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 402
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51dff587be80b843a0e903ca3310bf1
+      internalID: -336014112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillskin_38
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 402
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce650c56541495f40a11f62f516ac22b
+      internalID: 1587662356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillskin_39
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 404
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a984756fe52fca74da56226ca88444a5
+      internalID: -1161579785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillskin_40
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 130
+        width: 24
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22777a296b822c489d16ac2772df588
+      internalID: -212121553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillskin_41
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 194
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607c57b7606d1a140b2ed6d6e3503913
+      internalID: 1588117766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillskin_42
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 195
+        width: 57
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2ef287fc9f0884ba90a04b44b35ac0
+      internalID: 1192870983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillskin_43
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 127
+        width: 305
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159ff42941607b140b1b7eda68242a8f
+      internalID: 1940272135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillskin_44
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 129
+        width: 252
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1953214c6ef0946a0105f170164afd
+      internalID: 2064206859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillskin_45
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 24
+        width: 141
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95ac991f64e1d340a7ffc66092a276f
+      internalID: 2061302784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillskin_46
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 19
+        width: 64
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659d187db12ab6f4e8a3c7d6edc0b8cc
+      internalID: -1444504035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillskin_47
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 19
+        width: 71
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55605a835ceccda459f566ca654055fa
+      internalID: 482667915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillskin_48
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 20
+        width: 133
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50d6e472a6dd6949bd08ced926e0fb9
+      internalID: 1487016733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillskin_49
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 19
+        width: 59
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0f14439daefa8458622b7b54fedda7
+      internalID: -1368537178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillskin_50
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 17
+        width: 147
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd1f3683b478eb4cab38e81c7a3484c
+      internalID: -1427938678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      skillskin_0: -63271094
+      skillskin_1: 2142960556
+      skillskin_10: 93328337
+      skillskin_11: 1831492646
+      skillskin_12: 782658127
+      skillskin_13: -356595319
+      skillskin_14: -728351548
+      skillskin_15: -1861557418
+      skillskin_16: -242623614
+      skillskin_17: 71106405
+      skillskin_18: -1181171057
+      skillskin_19: -870224017
+      skillskin_2: 1804833918
+      skillskin_20: 875364406
+      skillskin_21: 49419894
+      skillskin_22: -1727938427
+      skillskin_23: 1700185155
+      skillskin_24: -1400943959
+      skillskin_25: 1904875899
+      skillskin_26: -1982671898
+      skillskin_27: -421232914
+      skillskin_28: 1520636794
+      skillskin_29: -911884810
+      skillskin_3: 1981486835
+      skillskin_30: 1108479348
+      skillskin_31: 1336578810
+      skillskin_32: -1700778118
+      skillskin_33: 1689460125
+      skillskin_34: 20170438
+      skillskin_35: -1843384862
+      skillskin_36: 1607496993
+      skillskin_37: -336014112
+      skillskin_38: 1587662356
+      skillskin_39: -1161579785
+      skillskin_4: 1832908421
+      skillskin_40: -212121553
+      skillskin_41: 1588117766
+      skillskin_42: 1192870983
+      skillskin_43: 1940272135
+      skillskin_44: 2064206859
+      skillskin_45: 2061302784
+      skillskin_46: -1444504035
+      skillskin_47: 482667915
+      skillskin_48: 1487016733
+      skillskin_49: -1368537178
+      skillskin_5: -1429796702
+      skillskin_50: -1427938678
+      skillskin_6: 294387713
+      skillskin_7: -1588610630
+      skillskin_8: 1855259779
+      skillskin_9: 1188398398
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
